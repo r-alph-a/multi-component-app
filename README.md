@@ -63,6 +63,7 @@ src/
 ├── main.jsx                React entry point
 └── styles.css              Responsive presentation
 public/assets/              Local weather illustrations
+vite.config.js              Vite React plugin configuration
 ```
 
 ## Submission
